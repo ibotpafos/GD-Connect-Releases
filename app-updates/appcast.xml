@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>GD Connect</title>
+        <item>
+            <title>0.3.0</title>
+            <pubDate>Mon, 19 Oct 2026 01:36:15 +0300</pubDate>
+            <link>https://github.com/ibotpafos/GD-Connect-Releases/releases/tag/gdconnect-v0.3.0</link>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[GD Connect 0.3.0
+
+Автообновление самого GD Connect: проверка, подписанная загрузка, установка и перезапуск.
+Настройки автоматической проверки и установки; операция с плагином завершается до перезапуска.
+macOS 14 и новее; Apple Silicon и Intel. Тестовая сборка с ad-hoc подписью, без нотариализации Apple.
+]]></description>
+            <enclosure url="https://github.com/ibotpafos/GD-Connect-Releases/releases/download/gdconnect-v0.3.0/GDConnect-0.3.0-macOS-universal.zip" length="2719959" type="application/octet-stream" sparkle:edSignature="/SFL5lu7OnMVcO+LyJkfVDcWBJcaghKAcJ8PtPyRnExC3dtyohGfE8hiVKNHXmHOQP4n2PDY+4NE7KWsJ49eCw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: dZ/ugd7MpDUrIVBinBXVzjKET6eHc9KhLAlnmV0J40+KaYKcmMquJKP/P2vpyvk8xwLgvAJERHDTg5K2cvmIBA==
+length: 1765
+-->
