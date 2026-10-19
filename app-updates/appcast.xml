@@ -4,25 +4,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GD Connect</title>
         <item>
-            <title>0.11.0</title>
-            <pubDate>Mon, 19 Oct 2026 10:03:03 +0300</pubDate>
-            <link>https://github.com/ibotpafos/GD-Connect-Releases/releases/tag/gdconnect-v0.11.0</link>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
+            <title>0.12.3</title>
+            <pubDate>Mon, 19 Oct 2026 14:31:20 +0300</pubDate>
+            <link>https://github.com/ibotpafos/GD-Connect-Releases/releases/tag/gdconnect-v0.12.3</link>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.12.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[GD Connect 0.11.0 — Graphite
+            <description sparkle:format="markdown"><![CDATA[GD Connect 0.12.3
 
-Обновлён интерфейс в общем стиле плагинов: графитовые панели, сдержанные цветовые акценты, новая типографика и единое оформление карточек, загрузок, деталей, истории и настроек.
-Сохранены светлая и тёмная темы с автоматическим переключением вместе с macOS. Цвета текста и состояний адаптированы для читаемости; режим повышенного контраста усиливает границы панелей.
-Обновлена иконка приложения с сохранением узнаваемой формы. Форматы AU/VST3/ARA и текущие состояния установки остаются на виду.
-Параллельные загрузки, пауза, автоматическая докачка, скорость, оставшееся время и общий прогресс очереди сохранены. Данные приложения и установленные плагины продолжают использовать прежние идентификаторы.
+• Universal macOS 14+ builds of GD Connect, GD Engine, Detect 0.2.0 and Import 0.2.0 for Apple Silicon and Intel.
+• Shared local file-analysis engine: Detect and Import reuse verified analysis results, recover after an engine restart and retain local fallback.
+• Automatic plugin updates are enabled by default. Existing user-installed formats update after the DAW closes; this can be disabled in Settings.
+• Download pause, recovery, parallel transfers, progress and manual install/remove remain available.
+• Application updates wait for open alerts or product sheets, then resume automatically after dismissal.
+• Existing plugin identities and saved projects are preserved. Import continues sharing library keys with current Pitch and Tune releases.
 
-macOS 14 и новее, Apple Silicon и Intel. Тестовая сборка с постоянными отдельными самоподписанными сертификатами приложения и установщика, пока без Developer ID и нотариализации Apple. На новом Mac может понадобиться однократное разрешение macOS на открытие установщика.
+Development beta with the existing private signing identity. Apple Developer ID notarization is not included.
 ]]></description>
-            <enclosure url="https://github.com/ibotpafos/GD-Connect-Releases/releases/download/gdconnect-v0.11.0/GDConnect-0.11.0-macOS-universal.zip" length="3198642" type="application/octet-stream" sparkle:edSignature="oxG9O4uG3dUl9qmjMfbQmnxsAYfQDMvdvrGzJ3gM7FZxgerFsl32BmnzJyulVkuPJgFsa5uSAyzF+P9JfpeHDQ=="></enclosure>
+            <enclosure url="https://github.com/ibotpafos/GD-Connect-Releases/releases/download/gdconnect-v0.12.3/GDConnect-0.12.3-macOS-universal.zip" length="39223086" type="application/octet-stream" sparkle:edSignature="azWYceYAuXxDQtMnz3qTLihIjbhRkIuTzkRHo6SaVpQVI7k0ndAz6fkmTcbY0BoI0FVzjtBaWf/Nbk8OO3BgAQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: BXfTHJJ2KHU2TTHkmnFf0QHnc7yZBsmISFCT8V7P1lJtBzsc1QkltGa++68MNdbOz/HWIm75ovR3v6z0LB8yBw==
-length: 3040
+edSignature: hYGkdlrI0Cx7MpcKOeQkKMPFFPVfxUFzu/Psk0tgDIHra/PeYR0oCpiRllW8V/RyMstID2/yM1Do8rxSgxknCg==
+length: 2165
 -->
