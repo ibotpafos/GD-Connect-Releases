@@ -4,27 +4,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GD Connect</title>
         <item>
-            <title>0.3.2</title>
-            <pubDate>Mon, 19 Oct 2026 03:15:01 +0300</pubDate>
-            <link>https://github.com/ibotpafos/GD-Connect-Releases/releases/tag/gdconnect-v0.3.2</link>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <title>0.4.0</title>
+            <pubDate>Mon, 19 Oct 2026 03:13:08 +0300</pubDate>
+            <link>https://github.com/ibotpafos/GD-Connect-Releases/releases/tag/gdconnect-v0.4.0</link>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[GD Connect 0.3.2
+            <description sparkle:format="markdown"><![CDATA[GD Connect 0.4.0 — GD Vocal Leveler
 
-Все семь плагинов доступны с постоянной подписью GD Connect в AU и VST3:
-MConnect, CHOIR, VocalTune, YDownload, VocalClean Live, GD Doubler и GD Vocal Leveler.
-Подписаны также вложенные библиотеки и вспомогательные программы.
-Обновлены версии пакетов; обработка аудио и идентификаторы плагинов сохранены.
+В каталоге семь плагинов. Новый GD Vocal Leveler 0.1.0 выравнивает вокал до выбранного уровня перед компрессией. ARA-анализ, редактируемая внутренняя кривая громкости, динамическая волна, A/B и Undo/Redo. Цель по умолчанию −18 dBFS RMS.
 
-Новые продукты в канале больше не прерывают обновление уже известных плагинов.
-Автообновление приложения и автоматический установщик сохранены.
-Самоподписанная тестовая сборка без нотариализации Apple.
+Сохранены Sparkle-обновления, постоянный сертификат приложения и последние подписанные версии остальных шести плагинов. Для Studio Pro: VST3 Event FX / Event Editors на вокальном событии, затем компрессор на канале.
+
+Тестовая macOS 14+ сборка для Apple Silicon и Intel. Самоподписанный сертификат не заменяет Apple Developer ID и нотариализацию. Первый запуск на отдельном Mac с включённым Gatekeeper ещё требует проверки.
 ]]></description>
-            <enclosure url="https://github.com/ibotpafos/GD-Connect-Releases/releases/download/gdconnect-v0.3.2/GDConnect-0.3.2-macOS-universal.zip" length="2723200" type="application/octet-stream" sparkle:edSignature="Ottgc3F44qZkKSuKI61xpep/I2SNkqfjgZb7Chxz7IxQONw7wRD3a5F1oiSBQnibQm8xSunpgYeoZciaOySoAQ=="></enclosure>
+            <enclosure url="https://github.com/ibotpafos/GD-Connect-Releases/releases/download/gdconnect-v0.4.0/GDConnect-0.4.0-macOS-universal.zip" length="2723141" type="application/octet-stream" sparkle:edSignature="dh5bksdvhnc024cxJPcNSvvryjEn+oNT/OLMvnN5npVAkSsHNveNKcW8hmc7PHe7Bu3bePaYE8PlY58s7RdcBw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 8DKkKKxwxJ/VKqfct4p+x35sBC4APTVQLUSBNwo4N+3MmntrGveGwy2lBjEbSfo0zeuvU7MORaTmBKKbM5ILBA==
-length: 2132
+edSignature: nFFTWDIHk7bp8nZvm/1eaFk+TNC8tarRFpq8xcl4LuYaNRQiEuMNksbQilpEEArDjq/+9wLOjFxAeL0wAiDqDA==
+length: 2382
 -->
