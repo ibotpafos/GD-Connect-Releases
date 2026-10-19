@@ -4,30 +4,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GD Connect</title>
         <item>
-            <title>0.9.0</title>
-            <pubDate>Mon, 19 Oct 2026 08:51:30 +0300</pubDate>
-            <link>https://github.com/ibotpafos/GD-Connect-Releases/releases/tag/gdconnect-v0.9.0</link>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <title>0.10.0</title>
+            <pubDate>Mon, 19 Oct 2026 09:12:22 +0300</pubDate>
+            <link>https://github.com/ibotpafos/GD-Connect-Releases/releases/tag/gdconnect-v0.10.0</link>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[GD Connect 0.9.0
+            <description sparkle:format="markdown"><![CDATA[GD Connect 0.10.0 — скорость и общий прогресс загрузок
 
-• Пауза и продолжение каждой загрузки или всей очереди.
-• Докачка с сохранённого байта после обрыва сети и перезапуска GD Connect.
-• Активные задания возобновляются автоматически; ручная пауза сохраняется.
-• При выходе очередь и частичные файлы сохраняются, текущая установка завершается безопасно.
-• До трёх параллельных загрузок; ожидание сети не занимает свободные слоты.
-• Сохранение выбранных AU/VST3, самостоятельный повтор ошибок и защита очереди от другой копии менеджера.
-• Проверка диапазона, ETag, размера, SHA-256 и подписи не допускает установку смешанного или повреждённого пакета.
-• При изменении архива или отказе сервера от диапазонов загрузка безопасно начинается заново.
+У каждой загрузки видны скачанный и полный объём, текущая скорость и приблизительное оставшееся время.
+Общий прогресс очереди учитывает размер всех архивов, включая ожидающие и приостановленные. Показаны суммарная скорость и число скачанных файлов; общий прогресс также виден в каталоге.
+После паузы, обрыва сети и перезапуска счётчики продолжаются с сохранённых байтов. Скорость нового соединения рассчитывается заново; при отсутствии данных оценка времени скрывается.
+Скачивание файлов и последующая проверка/установка отображаются отдельно. Сохраняются параллельные загрузки, пауза и автоматическая докачка.
 
-macOS 14+, Apple Silicon и Intel; требования каждого плагина указаны в карточке.
-Тестовая сборка подписана собственными сертификатами приложения и установщика, без нотариализации Apple.
+Тестовая сборка с постоянными отдельными самоподписанными сертификатами приложения и установщика, пока без Developer ID и нотариализации Apple. На новом Mac может понадобиться однократное разрешение macOS на открытие установщика.
 ]]></description>
-            <enclosure url="https://github.com/ibotpafos/GD-Connect-Releases/releases/download/gdconnect-v0.9.0/GDConnect-0.9.0-macOS-universal.zip" length="3070245" type="application/octet-stream" sparkle:edSignature="6brFP45acx2+4eqOLZka4nBPcBghx6AEUEg4bUBXxZVRrFGnQfDPc3ao54yINkruy9i7eyE/WiqgX4Fgv7V3Dg=="></enclosure>
+            <enclosure url="https://github.com/ibotpafos/GD-Connect-Releases/releases/download/gdconnect-v0.10.0/GDConnect-0.10.0-macOS-universal.zip" length="3127552" type="application/octet-stream" sparkle:edSignature="lr5aBv/UBOigRY0IcltJ+sm9YWrj/j3CXF5ElfTUzzTV6KwtlQ/y2EI6qFRt2omD/+6tmE+mJ33u3O8YEB28BQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: iSJaYSHyU5kaLrEooWYdbQkasdo97EHsR44QCOe50mmY0A1m3gQJsOxOeVlgwA6y8HReFW40dhRJsqJRsyrEAw==
-length: 2850
+edSignature: j5cJZdPZhAcKcuoMmBOsrB6fwgh+XnUyJRHYYx/ySlkMmdhUnuCJMS5QYskwBF51XmxDeuMs9cfAGLL0T6aECQ==
+length: 2898
 -->
