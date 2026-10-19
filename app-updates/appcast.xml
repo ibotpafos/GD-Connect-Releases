@@ -4,33 +4,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GD Connect</title>
         <item>
-            <title>0.5.1</title>
-            <pubDate>Mon, 19 Oct 2026 04:36:38 +0300</pubDate>
-            <link>https://github.com/ibotpafos/GD-Connect-Releases/releases/tag/gdconnect-v0.5.1</link>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <title>0.6.0</title>
+            <pubDate>Mon, 19 Oct 2026 07:05:46 +0300</pubDate>
+            <link>https://github.com/ibotpafos/GD-Connect-Releases/releases/tag/gdconnect-v0.6.0</link>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[GD Connect 0.5.1
+            <description sparkle:format="markdown"><![CDATA[GD Connect 0.6.0
 
-Плагины получили короткие названия: Link, Choir, Tune, Import, Clean, Doubler и Level.
-Названия изменены в каталоге и в AU/VST3, с сохранением идентификаторов старых проектов.
+Добавлен восьмой плагин Riser: reverse reverb из захваченного или загруженного аудио с экспортом WAV в DAW.
+AU и VST3, macOS 14+, Apple Silicon и Intel.
+Остальные семь плагинов сохранены в проверенных версиях канала branding-4.
 
-На главной странице видны форматы AU/VST3, поддержка ARA и способ работы плагина.
-Добавлены фильтры по способу работы, поиск по старым названиям и инструкции для DAW.
-ARA подтверждён у VST3 Tune и Level. Choir остаётся экспериментальным файловым плагином.
-
-Исправлены состояния установки, обновления и удаления. Текущая версия показывает
-«Установлено»; недостающий формат устанавливается отдельно. Более новая локальная
-версия сохраняется. Переустановка вынесена в отдельное действие в карточке.
-
-Level включает изменения опубликованной версии 0.2.0. Поддержка macOS 14+ сохранена.
-Приложение, все плагины и PKG подписаны постоянными собственными сертификатами GD Connect.
-Тестовая сборка пока без Developer ID и нотариализации Apple.
+Тестовая сборка с постоянной подписью GD Connect; нотариализации Apple нет.
 ]]></description>
-            <enclosure url="https://github.com/ibotpafos/GD-Connect-Releases/releases/download/gdconnect-v0.5.1/GDConnect-0.5.1-macOS-universal.zip" length="2809885" type="application/octet-stream" sparkle:edSignature="+0VqKDClXseUaR+VnNrgr5cOF8ZTeyeWT6DZft45Irt6HTQK5b/CyESz6N0HKf06OCzJALDozMGsDp1TPDT3Bw=="></enclosure>
+            <enclosure url="https://github.com/ibotpafos/GD-Connect-Releases/releases/download/gdconnect-v0.6.0/GDConnect-0.6.0-macOS-universal.zip" length="2810306" type="application/octet-stream" sparkle:edSignature="D/6A+dkfsrR6oVZPe9KQefvFJLiq7GiXnmBxQpBkhLn3FEYrqWWAZn8buaVVluio5Mv8/Dseq9jM+9gxu6HCAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: IyoMsgDo9YcJta4JBXsP+uQRw8Gogj+P/ZDx8D4aEu4sZ2d7E7OXT0rUaWKu0PlTt6T9Y+2AJkPVJydRYU9LBA==
-length: 2838
+edSignature: LbQnFJkQE29ohAsa3+HV5rSiBGUIuq6pKA94ddjFHAMjTsyx9mKyRsVWXm3lKmYiWX9DvFbvw/XJf2KjCbIfBw==
+length: 1761
 -->
