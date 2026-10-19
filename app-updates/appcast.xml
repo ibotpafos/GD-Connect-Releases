@@ -4,24 +4,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GD Connect</title>
         <item>
-            <title>0.6.0</title>
-            <pubDate>Mon, 19 Oct 2026 07:05:46 +0300</pubDate>
-            <link>https://github.com/ibotpafos/GD-Connect-Releases/releases/tag/gdconnect-v0.6.0</link>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <title>0.7.0</title>
+            <pubDate>Mon, 19 Oct 2026 07:35:14 +0300</pubDate>
+            <link>https://github.com/ibotpafos/GD-Connect-Releases/releases/tag/gdconnect-v0.7.0</link>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[GD Connect 0.6.0
+            <description sparkle:format="markdown"><![CDATA[GD Connect 0.7.0
 
-Добавлен восьмой плагин Riser: reverse reverb из захваченного или загруженного аудио с экспортом WAV в DAW.
-AU и VST3, macOS 14+, Apple Silicon и Intel.
-Остальные семь плагинов сохранены в проверенных версиях канала branding-4.
+Новые плагины автоматически появляются из общего каталога без обновления менеджера.
+Проверка при каждом запуске, раз в час и по ⌘R. Сохранённые карточки и версии доступны без интернета.
+Проверяется каждый новый пакет; идентификаторы известных плагинов и защита от понижения версии сохраняются.
 
 Тестовая сборка с постоянной подписью GD Connect; нотариализации Apple нет.
 ]]></description>
-            <enclosure url="https://github.com/ibotpafos/GD-Connect-Releases/releases/download/gdconnect-v0.6.0/GDConnect-0.6.0-macOS-universal.zip" length="2810306" type="application/octet-stream" sparkle:edSignature="D/6A+dkfsrR6oVZPe9KQefvFJLiq7GiXnmBxQpBkhLn3FEYrqWWAZn8buaVVluio5Mv8/Dseq9jM+9gxu6HCAg=="></enclosure>
+            <enclosure url="https://github.com/ibotpafos/GD-Connect-Releases/releases/download/gdconnect-v0.7.0/GDConnect-0.7.0-macOS-universal.zip" length="2830063" type="application/octet-stream" sparkle:edSignature="b2A2rmjQ2Vgn4JKu/UVtFowX+e5/mJmFLf/MAjysoslN24LfFEICL1RJQwerT1XpG1g3a4FSO3SUS1tbRHsJBw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: LbQnFJkQE29ohAsa3+HV5rSiBGUIuq6pKA94ddjFHAMjTsyx9mKyRsVWXm3lKmYiWX9DvFbvw/XJf2KjCbIfBw==
-length: 1761
+edSignature: 9iCpp9K8A667Uj56qMXMq/6mXuu6D7Ih7mmmORcwQtFNHSkK7mnOxlEC95g5IJFEOInr1TI30wik5Y0noGo0Bw==
+length: 1952
 -->
