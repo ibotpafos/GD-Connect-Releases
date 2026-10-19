@@ -4,24 +4,30 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GD Connect</title>
         <item>
-            <title>0.7.0</title>
-            <pubDate>Mon, 19 Oct 2026 07:35:14 +0300</pubDate>
-            <link>https://github.com/ibotpafos/GD-Connect-Releases/releases/tag/gdconnect-v0.7.0</link>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <title>0.8.0</title>
+            <pubDate>Mon, 19 Oct 2026 08:12:19 +0300</pubDate>
+            <link>https://github.com/ibotpafos/GD-Connect-Releases/releases/tag/gdconnect-v0.8.0</link>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[GD Connect 0.7.0
+            <description sparkle:format="markdown"><![CDATA[GD Connect 0.8.0
 
-Новые плагины автоматически появляются из общего каталога без обновления менеджера.
-Проверка при каждом запуске, раз в час и по ⌘R. Сохранённые карточки и версии доступны без интернета.
-Проверяется каждый новый пакет; идентификаторы известных плагинов и защита от понижения версии сохраняются.
+• До трёх параллельных загрузок плагинов вместо одной общей операции.
+• Раздел «Загрузки»: отдельные прогресс, отмена, результаты и повтор ошибок.
+• Можно добавлять плагины во время загрузки; доступны «Установить все» и «Обновить все».
+• Ошибка одного пакета не останавливает остальные; временные ошибки соединения повторяются автоматически.
+• Готовые пакеты устанавливаются по одному с прежней проверкой подписи, SHA-256, транзакцией и откатом.
+• Сохраняются выбранные форматы; повторные нажатия не дублируют задания.
+• Безопасный выход и автообновление приложения ждут завершения активных операций.
+• Сохранены автоматическое обнаружение новых плагинов, офлайн-каталог и обновления Link 0.1.9 из общего канала.
 
-Тестовая сборка с постоянной подписью GD Connect; нотариализации Apple нет.
+macOS 14+, Apple Silicon и Intel; совместимость каждого плагина указана в карточке.
+Тестовая сборка подписана собственными сертификатами приложения и установщика, без нотариализации Apple.
 ]]></description>
-            <enclosure url="https://github.com/ibotpafos/GD-Connect-Releases/releases/download/gdconnect-v0.7.0/GDConnect-0.7.0-macOS-universal.zip" length="2830063" type="application/octet-stream" sparkle:edSignature="b2A2rmjQ2Vgn4JKu/UVtFowX+e5/mJmFLf/MAjysoslN24LfFEICL1RJQwerT1XpG1g3a4FSO3SUS1tbRHsJBw=="></enclosure>
+            <enclosure url="https://github.com/ibotpafos/GD-Connect-Releases/releases/download/gdconnect-v0.8.0/GDConnect-0.8.0-macOS-universal.zip" length="2932173" type="application/octet-stream" sparkle:edSignature="cxHoCA+furXHgXV9tL0SEm2yj6l3mCzdDJ4LebCsz45nzVrhIZjZkn+9LkgH2pQ9x0FWRgTqALqVaTW1XtlxAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 9iCpp9K8A667Uj56qMXMq/6mXuu6D7Ih7mmmORcwQtFNHSkK7mnOxlEC95g5IJFEOInr1TI30wik5Y0noGo0Bw==
-length: 1952
+edSignature: v6b5azE+GOBWXmmdObW8rCuFq7Ir8lDaN70gGP59LboJ0rVsKOmCIHmnZO9bI5x3vgYxfhmHSpkr2Jfidxs6CA==
+length: 2912
 -->
