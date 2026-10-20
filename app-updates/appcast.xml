@@ -4,26 +4,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GD Connect</title>
         <item>
-            <title>0.13.1</title>
-            <pubDate>Tue, 20 Oct 2026 14:01:34 +0300</pubDate>
-            <link>https://github.com/ibotpafos/GD-Connect-Releases/releases/tag/gdconnect-v0.13.1</link>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>0.13.1</sparkle:shortVersionString>
+            <title>0.13.2</title>
+            <pubDate>Tue, 20 Oct 2026 15:00:37 +0300</pubDate>
+            <link>https://github.com/ibotpafos/GD-Connect-Releases/releases/tag/gdconnect-v0.13.2</link>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>0.13.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[GD Connect 0.13.1
+            <description sparkle:format="markdown"><![CDATA[GD Connect 0.13.2
 
-Исправлена лишняя нагрузка на интерфейс во время параллельной загрузки и установки продуктов. Прогресс всех соединений обновляется вместе до пяти раз в секунду; скорость, скачанные байты и оставшееся время сохраняются. Пауза, отмена и смена состояния установки отображаются сразу.
+Каталог больше не пересчитывается при каждом обновлении прогресса загрузок. Скорость, скачанные байты и оставшееся время обновляются отдельно.
 
-Цвета карточек Graphite переиспользуются между обновлениями интерфейса. Светлая, тёмная и контрастные темы сохранены.
+Очередь и окно продукта используют общие состояния и действия: пауза, продолжение, повтор, отмена. Кнопки сразу отражают результат установки, обновления и удаления.
 
-Сохраняются параллельные загрузки, докачка после перезапуска, проверка целостности, последовательная установка и корректное обновление кнопок после установки или удаления.
-
-Универсальная сборка для Apple Silicon и Intel, macOS 14 и новее. Подпись прежним сертификатом GD Connect. Тестовый выпуск без нотариализации Apple.
+Сохранены три параллельные загрузки, докачка после обрыва сети и перезапуска, безопасное завершение текущей установки перед выходом.
 ]]></description>
-            <enclosure url="https://github.com/ibotpafos/GD-Connect-Releases/releases/download/gdconnect-v0.13.1/GDConnect-0.13.1-macOS-universal.zip" length="39286016" type="application/octet-stream" sparkle:edSignature="sytShmaWxEZHRTFvFw4nkkb/13NG4PraAVEZ6oq/+UhhABiSjnikY1aDajoFHiuwfiVJvv+YA4WpWqgkFZduCA=="></enclosure>
+            <enclosure url="https://github.com/ibotpafos/GD-Connect-Releases/releases/download/gdconnect-v0.13.2/GDConnect-0.13.2-macOS-universal.zip" length="39291273" type="application/octet-stream" sparkle:edSignature="cjUJUw2Sj6WlfJsBoXwhaAjbtCntvz5eD3Jv3meVHvvEyr0rs0+fO1Bn38Zx9NnWXz9F1789rqdhcabzvLY1DA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Jmb/e34hn2LjKAx1Cqk8VMlRiupCjVtLKP+h/lPbvA3+5pg4JdaFgXNi6O8cQt2EkjDdowp27JxIK5YEwjBfDg==
-length: 2581
+edSignature: eYpdJ8PI3RlBH/hGTuTKdAixDVFYUEc3tmUTpuIn9c9LWkORPI5fFXbKs7fRujvQuX/Q0OAqqYSt2hLfXXCxCg==
+length: 2107
 -->
