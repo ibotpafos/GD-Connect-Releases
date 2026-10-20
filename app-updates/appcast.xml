@@ -4,32 +4,26 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GD Connect</title>
         <item>
-            <title>0.13.0</title>
-            <pubDate>Mon, 19 Oct 2026 17:06:24 +0300</pubDate>
-            <link>https://github.com/ibotpafos/GD-Connect-Releases/releases/tag/gdconnect-v0.13.0</link>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
+            <title>0.13.1</title>
+            <pubDate>Tue, 20 Oct 2026 14:01:34 +0300</pubDate>
+            <link>https://github.com/ibotpafos/GD-Connect-Releases/releases/tag/gdconnect-v0.13.1</link>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>0.13.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[GD Connect 0.13.0
+            <description sparkle:format="markdown"><![CDATA[GD Connect 0.13.1
 
-Общий выпуск линейки на GD Kit 0.4.0: 17 плагинов AU/VST3 и приложение Monitor.
+Исправлена лишняя нагрузка на интерфейс во время параллельной загрузки и установки продуктов. Прогресс всех соединений обновляется вместе до пяти раз в секунду; скорость, скачанные байты и оставшееся время сохраняются. Пауза, отмена и смена состояния установки отображаются сразу.
 
-Monitor устанавливается и запускается из GD Connect как отдельное приложение macOS. Менеджер ждёт закрытия приложения перед автоматическим обновлением и проверяет его состояние ещё раз перед заменой файлов.
+Цвета карточек Graphite переиспользуются между обновлениями интерфейса. Светлая, тёмная и контрастные темы сохранены.
 
-Каталог, очередь и квитанции приложений хранятся отдельно от данных плагинов. Сохраняется совместимость общего хранилища с GD Connect 0.12.3: прежний клиент продолжает читать и обновлять AU/VST3.
+Сохраняются параллельные загрузки, докачка после перезапуска, проверка целостности, последовательная установка и корректное обновление кнопок после установки или удаления.
 
-Светлая и тёмная темы Graphite, общие элементы GD Kit 0.4.0 и уточнённые инструкции по форматам и установке.
-
-macOS 14 и новее. GD Connect, Detect, Import и Monitor поддерживают Apple Silicon и Intel; архитектуры каждого продукта указаны на его карточке.
-
-Виртуальный микрофон Monitor использует отдельный драйвер. Его установка выполняется по явному действию в Monitor с паролем администратора и перезагрузкой. GD Connect устанавливает только приложение.
-
-Тестовый выпуск с постоянной локальной подписью GD Connect, без нотариализации Apple. Для автообновления используются подписанные feed и ZIP.
+Универсальная сборка для Apple Silicon и Intel, macOS 14 и новее. Подпись прежним сертификатом GD Connect. Тестовый выпуск без нотариализации Apple.
 ]]></description>
-            <enclosure url="https://github.com/ibotpafos/GD-Connect-Releases/releases/download/gdconnect-v0.13.0/GDConnect-0.13.0-macOS-universal.zip" length="39279848" type="application/octet-stream" sparkle:edSignature="cO0zi9Ob8vJ3wJgdnwuSyVlRw+1MtxNgaCIMRRbb3Gqtl3KwSh6RLmw1kNUZxKIQN7LtFDX8Vrdso9d1pdcoDg=="></enclosure>
+            <enclosure url="https://github.com/ibotpafos/GD-Connect-Releases/releases/download/gdconnect-v0.13.1/GDConnect-0.13.1-macOS-universal.zip" length="39286016" type="application/octet-stream" sparkle:edSignature="sytShmaWxEZHRTFvFw4nkkb/13NG4PraAVEZ6oq/+UhhABiSjnikY1aDajoFHiuwfiVJvv+YA4WpWqgkFZduCA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: XBItYnlXjwA2lWSQ/rKrQmrdsdBEnUY8VU61jm92WFtOBxeikbxCikWITCbexfvpf8+C9IxPA9HUhNBpKY/DBg==
-length: 3104
+edSignature: Jmb/e34hn2LjKAx1Cqk8VMlRiupCjVtLKP+h/lPbvA3+5pg4JdaFgXNi6O8cQt2EkjDdowp27JxIK5YEwjBfDg==
+length: 2581
 -->
