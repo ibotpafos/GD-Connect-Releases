@@ -4,20 +4,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GD Connect</title>
         <item>
-            <title>0.13.4</title>
-            <pubDate>Fri, 23 Oct 2026 05:10:17 +0300</pubDate>
-            <link>https://github.com/ibotpafos/GD-Connect-Releases/releases/tag/gdconnect-v0.13.4</link>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>0.13.4</sparkle:shortVersionString>
+            <title>0.13.5</title>
+            <pubDate>Fri, 23 Oct 2026 12:03:00 +0300</pubDate>
+            <link>https://github.com/ibotpafos/GD-Connect-Releases/releases/tag/gdconnect-v0.13.5</link>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>0.13.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[GD Connect 0.13.4
+            <description sparkle:format="markdown"><![CDATA[GD Connect 0.13.5
 
-Убраны разделы «Экосистема» и «История». В навигации остались «Каталог», «Установленные», «Обновления» и «Загрузки».
+Неудачную или отменённую загрузку можно повторить прямо с карточки продукта. Повтор сохраняет выбранные ранее форматы и ожидание закрытия DAW для автоматических обновлений.
+
+Если очередь не удаётся сохранить, операция остаётся в списке и доступна для повтора. Сброс каталога показывает новые карточки только после успешного сохранения.
+
+Проверка контрольной суммы учитывает отмену, чтобы не задерживать остановку операции при проверке большого файла.
 ]]></description>
-            <enclosure url="https://github.com/ibotpafos/GD-Connect-Releases/releases/download/gdconnect-v0.13.4/GDConnect-0.13.4-macOS-universal.zip" length="39147582" type="application/octet-stream" sparkle:edSignature="pp/4fHFQONLFGaH7wKlQj9q+tnNKuaSSg+HJcrKjMeP+HOZuUtwULKRuksYbdzCXi6QrPJBoXfn7CObZPnVrCQ=="></enclosure>
+            <enclosure url="https://github.com/ibotpafos/GD-Connect-Releases/releases/download/gdconnect-v0.13.5/GDConnect-0.13.5-macOS-universal.zip" length="39149820" type="application/octet-stream" sparkle:edSignature="UAxSIadepqZlhlXNUwgS9eAOI2SwduHm459q00NqjpJFsQSSYXY8pH27GSyGr7NeQKaPMUjToS9vG45b93rRDg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: bSmXSWxnKA9XSFCz8Wf6/IMHHe0tTDJnj2p7tOylbXtCE4XiY3oynoivtKXNV6cTBdML5QZeYyZ9qqTOhqEJCw==
-length: 1507
+edSignature: W1n51/LtSBnEOqHE5xPayGScqvqYyyDobLDWVDMyj6jTswSBS7pPxwh8gHbmaU/TcD49o6KEukY1Y36D7IL1Cw==
+length: 2122
 -->
