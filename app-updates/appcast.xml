@@ -4,24 +4,28 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GD Connect</title>
         <item>
-            <title>0.13.2</title>
-            <pubDate>Tue, 20 Oct 2026 15:00:37 +0300</pubDate>
-            <link>https://github.com/ibotpafos/GD-Connect-Releases/releases/tag/gdconnect-v0.13.2</link>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>0.13.2</sparkle:shortVersionString>
+            <title>0.13.3</title>
+            <pubDate>Fri, 23 Oct 2026 05:00:26 +0300</pubDate>
+            <link>https://github.com/ibotpafos/GD-Connect-Releases/releases/tag/gdconnect-v0.13.3</link>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>0.13.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[GD Connect 0.13.2
+            <description sparkle:format="markdown"><![CDATA[GD Connect 0.13.3
 
-Каталог больше не пересчитывается при каждом обновлении прогресса загрузок. Скорость, скачанные байты и оставшееся время обновляются отдельно.
+Повышена устойчивость загрузки и установки плагинов.
 
-Очередь и окно продукта используют общие состояния и действия: пауза, продолжение, повтор, отмена. Кнопки сразу отражают результат установки, обновления и удаления.
+Исправлены восстановление очереди после ошибок и запуск приложения при повреждённой истории операций. Очистка кэша учитывает загрузки другой копии GD Connect и сохраняет блокировки файлов.
 
-Сохранены три параллельные загрузки, докачка после обрыва сети и перезапуска, безопасное завершение текущей установки перед выходом.
+Автоматические обновления после перезапуска дожидаются закрытия DAW перед загрузкой. Ручная установка остаётся доступна.
+
+Внешние команды установки ограничены по времени и объёму сохраняемого вывода. При сбое сохраняется возможность отката и повторной операции.
+
+Сохранены три параллельные загрузки, пауза, докачка после обрыва сети и перезапуска, скорость и оставшееся время, светлая и тёмная темы.
 ]]></description>
-            <enclosure url="https://github.com/ibotpafos/GD-Connect-Releases/releases/download/gdconnect-v0.13.2/GDConnect-0.13.2-macOS-universal.zip" length="39291273" type="application/octet-stream" sparkle:edSignature="cjUJUw2Sj6WlfJsBoXwhaAjbtCntvz5eD3Jv3meVHvvEyr0rs0+fO1Bn38Zx9NnWXz9F1789rqdhcabzvLY1DA=="></enclosure>
+            <enclosure url="https://github.com/ibotpafos/GD-Connect-Releases/releases/download/gdconnect-v0.13.3/GDConnect-0.13.3-macOS-universal.zip" length="39302156" type="application/octet-stream" sparkle:edSignature="dETMTv9w5xg4w4zBpMB8KoHn4CJGY2oDsFFqbsNLY44246mTAb3vyuGG/DBxKkLYTkz3ojj3VfiVUI73hPnvDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: eYpdJ8PI3RlBH/hGTuTKdAixDVFYUEc3tmUTpuIn9c9LWkORPI5fFXbKs7fRujvQuX/Q0OAqqYSt2hLfXXCxCg==
-length: 2107
+edSignature: G3fNkt0x1cg2QEfbJZtV76PY31wwnelVHShLIb3weDNV8pGfgFyU0I2P6NL3ZItJXCouxQN07DXSydACX49IAA==
+length: 2470
 -->
