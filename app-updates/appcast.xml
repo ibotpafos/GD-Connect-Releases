@@ -4,24 +4,26 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GD Connect</title>
         <item>
-            <title>0.13.6</title>
-            <pubDate>Fri, 23 Oct 2026 12:26:27 +0300</pubDate>
-            <link>https://github.com/ibotpafos/GD-Connect-Releases/releases/tag/gdconnect-v0.13.6</link>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>0.13.6</sparkle:shortVersionString>
+            <title>0.13.7</title>
+            <pubDate>Mon, 26 Oct 2026 01:03:02 +0300</pubDate>
+            <link>https://github.com/ibotpafos/GD-Connect-Releases/releases/tag/gdconnect-v0.13.7</link>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>0.13.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[GD Connect 0.13.6
+            <description sparkle:format="markdown"><![CDATA[GD Connect 0.13.7
 
-Уточнены кнопки установки и повтора. Уже выполненные операции не скачиваются заново, неподдерживаемые форматы не попадают в повтор, а явную переустановку можно повторить как прежде. Карточка и очередь используют одну проверку доступности действия.
+Уменьшена нагрузка на интерфейс во время установки и удаления плагинов: проверка установленных версий и записей об установке выполняется в фоне. Кнопки и список установленных форматов обновляются до завершения операции.
 
-Перед заменой плагинов GD Connect проверяет свободное место на диске установки, учитывая все выбранные форматы. При нехватке места прежние файлы и записи установки сохраняются. Удаление не блокируется этой проверкой.
+Ручная очередь больше не проверяет запущенные рабочие станции при каждом переходе. Для автоматических обновлений сохранено ожидание закрытия DAW.
 
-Если запись очереди не удалась, повторная операция не создаётся поверх сохранённой ошибки.
+Очистка скачанных архивов выполняется в фоне и показывает своё состояние. Повторная очистка и новая установка на это время блокируются. Выход из GD Connect и установка обновления самого приложения дожидаются завершения очистки.
+
+Улучшено восстановление после ошибки очистки: очередь снова доступна для повторной попытки. Установленные плагины и сохранённые загрузки на паузе защищены от очистки.
 ]]></description>
-            <enclosure url="https://github.com/ibotpafos/GD-Connect-Releases/releases/download/gdconnect-v0.13.6/GDConnect-0.13.6-macOS-universal.zip" length="39169037" type="application/octet-stream" sparkle:edSignature="0ViB7QyjwOimCcsLF6Hmtu8OjQKTQ2vgxzh698teGBC7V/ruJ73fryArF4QsXZHx/iOVKRS7t8/GZJimWed/Dw=="></enclosure>
+            <enclosure url="https://github.com/ibotpafos/GD-Connect-Releases/releases/download/gdconnect-v0.13.7/GDConnect-0.13.7-macOS-universal.zip" length="39187278" type="application/octet-stream" sparkle:edSignature="HdML34LjefkDnuYGNQTGmX1fq1hRhfhof5skuKHV7gDDWxsuN1RKo4KhKIJQvG6HXabY7iaPL7dr8UHs9ZLxAw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: av3GaDdZVV+nwavF3JRIVsrWTb18oD2qy5eVRZG8y6cTS5u/wSQjcMXEfcHiupQFkGn+8GrBBqFN1keUZZzIAA==
-length: 2311
+edSignature: sM/BzcG4q9SiKm4ipjGxGG61QM47UIjdPFfw4b0JzBMe+NkgMszcOCmWS9Bj1nFV0h3s2sZx+keGi9aEpAuOAw==
+length: 2693
 -->
